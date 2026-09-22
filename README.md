@@ -22,9 +22,10 @@ This repository investigates the latent geometric properties of subordinating co
      - `premise_2`: Subordinate/dependent proposition containing evidence or constraints.
      - `conjunction`: The subordinating conjunction and related connective words (e.g., *because*, *although*, *if*, *since*).
      - `non_relevant`: Filler text, non-rhetorical introductory phrases, or trailing punctuation.
-  3. Applied a programmatic verification engine to validate that every retained result contains two non-empty premise clauses (`premise_1`, `premise_2`) and a valid subordinating conjunction (`conjunction`).
+  3. Implemented a strict programmatic verification engine checking that every retained result contains non-empty `premise_1`, `premise_2`, and `conjunction` components. Fallbacks are strictly prohibited to prevent data pollution; unresolvable API errors raise explicit `RuntimeError` exceptions.
   4. Contextually evaluated each sample against operational dismissal criteria (`is_dismissed = True` for sentence fragments, prepositional term usage, incomplete fragments, or unverified premise/conjunction components).
-  5. Implemented an explicit validation step that prints the detailed output for the first batch (Batch 1: 10 samples) prior to executing the full dataset run.
-  6. Formatted 50 representative samples for visual human inspection.
-  7. Exported final payloads to Google Drive (`/content/drive/MyDrive/persuade_data/`) and local fallback paths in CSV and JSON formats.
-  8. Generated statistical metric dashboards displaying retention ratios, segment length distributions, conjunction term frequencies, and discourse effectiveness tier alignments.
+  5. Built a dedicated validation cell (Section 5.1) that prints the complete LLM system prompt and itemized output for the first batch (Batch 1: 10 samples) prior to running the full processing pipeline.
+  6. Executed the batch segmentation loop (Section 5.2) with per-batch validity logging reporting exact valid/invalid sample ratios after each batch request.
+  7. Formatted 50 representative samples for visual human inspection audit.
+  8. Exported final payloads to Google Drive (`/content/drive/MyDrive/persuade_data/`) and local fallback paths in CSV and JSON formats.
+  9. Generated statistical metric dashboards displaying retention ratios, segment length distributions, conjunction term frequencies, and discourse effectiveness tier alignments.
