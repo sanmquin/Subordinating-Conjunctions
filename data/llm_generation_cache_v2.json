@@ -1,0 +1,5306 @@
+{
+  "disc_lead_00001": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00002": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00003": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00004": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00005": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00006": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00007": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00008": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00009": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00010": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00011": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00012": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00013": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00014": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00015": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00016": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00017": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00018": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00019": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00020": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00021": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00022": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00023": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00024": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00025": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00026": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00027": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00028": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00029": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00030": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00031": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00032": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00033": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00034": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00035": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00036": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00037": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00038": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00039": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00040": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00041": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00042": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00043": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00044": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00045": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00046": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00047": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00048": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00049": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00050": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00051": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00052": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00053": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00054": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00055": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00056": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00057": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00058": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00059": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00060": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00061": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00062": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00063": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00064": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00065": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00066": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00067": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00068": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00069": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00070": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00071": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00072": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00073": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00074": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00075": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00076": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00077": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00078": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00079": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00080": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00081": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00082": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00083": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00084": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00085": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00086": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00087": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00088": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00089": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00090": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00091": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00092": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00093": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00094": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00095": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00096": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00097": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00098": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00099": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00100": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00101": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00102": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00103": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00104": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00105": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00106": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00107": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00108": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00109": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00110": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00111": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00112": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00113": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00114": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00115": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00116": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00117": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00118": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00119": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00120": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00121": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00122": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00123": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00124": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00125": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00126": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00127": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00128": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00129": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00130": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00131": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00132": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00133": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00134": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00135": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00136": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00137": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00138": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00139": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00140": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00141": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00142": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00143": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00144": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00145": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00146": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00147": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00148": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00149": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00150": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00151": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00152": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00153": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00154": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00155": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00156": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00157": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00158": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00159": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00160": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00161": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00162": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00163": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00164": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00165": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00166": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00167": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00168": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00169": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00170": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00171": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00172": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00173": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00174": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00175": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00176": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00177": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00178": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00179": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00180": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00181": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00182": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00183": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00184": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00185": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00186": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00187": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00188": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00189": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00190": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00191": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00192": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00193": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00194": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00195": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00196": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00197": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00198": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00199": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00200": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00201": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00202": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00203": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00204": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00205": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00206": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00207": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00208": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00209": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00210": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00211": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00212": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00213": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00214": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00215": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00216": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00217": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00218": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00219": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00220": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00221": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00222": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00223": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00224": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00225": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00226": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00227": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00228": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00229": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00230": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00231": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00232": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00233": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00234": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00235": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00236": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00237": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00238": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00239": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00240": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00241": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00242": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00243": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00244": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00245": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00246": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00247": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00248": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00249": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00250": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00251": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00252": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00253": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00254": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00255": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00256": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00257": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00258": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00259": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00260": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00261": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00262": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00263": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00264": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00265": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00266": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00267": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00268": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00269": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00270": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00271": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00272": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00273": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00274": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00275": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00276": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00277": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00278": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00279": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00280": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00281": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00282": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00283": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00284": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00285": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00286": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00287": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00288": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00289": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00290": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00291": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00292": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00293": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00294": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00295": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00296": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00297": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00298": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00299": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00300": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00301": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00302": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00303": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00304": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00305": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00306": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00307": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00308": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00309": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00310": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00311": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00312": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00313": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00314": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00315": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00316": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00317": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00318": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00319": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00320": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00321": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00322": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00323": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00324": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00325": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00326": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00327": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00328": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00329": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00330": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00331": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00332": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00333": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00334": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00335": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00336": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00337": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00338": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00339": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00340": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00341": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00342": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00343": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00344": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00345": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00346": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00347": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00348": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00349": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00350": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00351": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00352": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00353": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00354": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00355": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00356": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00357": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00358": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00359": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00360": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00361": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00362": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00363": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00364": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00365": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00366": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00367": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00368": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00369": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00370": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00371": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00372": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00373": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00374": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00375": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00376": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00377": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00378": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00379": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00380": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00381": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00382": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00383": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00384": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00385": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00386": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00387": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00388": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00389": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00390": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00391": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00392": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00393": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00394": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00395": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00396": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00397": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00398": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00399": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00400": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00401": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00402": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00403": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00404": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00405": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00406": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00407": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00408": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00409": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00410": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00411": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00412": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00413": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00414": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00415": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00416": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00417": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00418": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00419": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00420": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00421": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00422": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00423": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00424": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00425": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00426": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00427": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00428": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00429": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00430": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00431": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00432": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00433": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00434": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00435": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00436": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00437": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00438": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00439": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00440": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00441": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00442": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00443": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00444": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00445": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00446": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00447": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00448": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00449": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00450": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00451": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00452": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00453": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00454": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00455": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00456": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00457": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00458": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00459": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00460": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00461": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00462": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00463": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00464": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00465": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00466": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00467": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00468": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00469": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00470": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00471": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00472": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00473": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00474": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00475": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00476": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00477": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00478": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00479": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00480": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00481": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00482": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00483": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00484": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00485": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00486": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00487": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00488": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00489": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00490": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00491": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00492": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00493": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00494": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00495": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00496": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00497": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00498": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00499": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00500": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00501": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00502": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00503": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00504": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00505": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00506": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00507": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00508": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00509": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00510": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00511": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00512": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00513": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00514": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00515": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00516": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00517": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00518": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00519": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00520": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00521": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00522": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00523": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00524": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00525": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00526": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00527": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00528": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00529": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00530": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00531": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00532": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00533": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00534": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00535": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00536": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00537": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00538": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00539": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00540": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00541": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00542": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00543": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00544": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00545": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00546": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00547": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00548": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00549": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00550": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00551": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00552": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00553": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00554": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00555": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00556": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00557": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00558": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00559": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00560": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00561": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00562": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00563": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00564": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00565": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00566": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00567": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00568": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00569": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00570": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00571": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00572": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00573": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00574": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00575": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00576": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00577": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00578": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00579": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00580": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00581": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00582": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00583": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00584": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00585": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00586": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00587": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00588": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00589": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00590": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00591": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00592": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00593": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00594": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00595": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00596": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00597": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00598": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00599": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00600": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00601": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00602": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00603": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00604": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00605": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00606": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00607": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00608": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00609": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00610": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00611": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00612": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00613": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00614": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00615": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00616": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00617": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00618": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00619": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00620": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00621": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00622": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00623": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00624": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00625": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00626": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00627": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00628": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00629": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00630": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00631": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00632": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00633": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00634": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00635": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00636": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00637": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00638": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00639": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00640": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00641": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00642": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00643": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00644": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00645": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00646": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00647": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00648": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00649": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00650": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00651": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00652": {
+    "premise_1": "Students should participate in community service",
+    "premise_2": "it fosters empathy and builds essential civic responsibility.",
+    "conjunction": "since",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00653": {
+    "premise_1": "car-free cities reduce urban pollution",
+    "premise_2": "many citizens rely heavily on personal vehicles for daily commutes.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00654": {
+    "premise_1": "People should support renewable technology",
+    "premise_2": "fossil fuels contribute directly to catastrophic global climate change.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00655": {
+    "premise_1": "The facial landmark image was created by natural erosion",
+    "premise_2": "some conspiracy theorists claim aliens sculpted a face on Mars.",
+    "conjunction": "even though",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00656": {
+    "premise_1": "government regulation strictly controls emissions",
+    "premise_2": "air quality in metropolitan areas will continue to degrade rapidly.",
+    "conjunction": "Unless",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00657": {
+    "premise_1": "We should switch to electric cars",
+    "premise_2": "charging infrastructure is made universally accessible to all residents.",
+    "conjunction": "provided that",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00658": {
+    "premise_1": "I think technology is good",
+    "premise_2": "it helps people do homework and talk to friends faster.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00659": {
+    "premise_1": "Cars are bad",
+    "premise_2": "they make too much noise in the morning.",
+    "conjunction": "when",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00660": {
+    "premise_1": "Venus is very hot",
+    "premise_2": "we should go there right now.",
+    "conjunction": "Although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00661": {
+    "premise_1": "Venus is a planet that scientists have tried to learn about",
+    "premise_2": "the environment is extraordinarily hostile and dangerous.",
+    "conjunction": "although",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00662": {
+    "premise_1": "I strongly disagree with driverless vehicles",
+    "premise_2": "untested autonomous algorithms pose significant risks to pedestrians.",
+    "conjunction": "because",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  },
+  "disc_lead_00663": {
+    "premise_1": "scientists can figure out more about Venus",
+    "premise_2": "we can further our understanding of what this planet once was.",
+    "conjunction": "If",
+    "non_relevant": "",
+    "is_dismissed": false,
+    "dismissal_reason": ""
+  }
+}
