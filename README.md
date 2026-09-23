@@ -46,3 +46,19 @@ This repository investigates the latent geometric properties of subordinating co
      - Unembedded payload: `valid_subordinating_conjunction_discourses.csv` & `.json`.
      - Embedded payload: `valid_subordinating_conjunction_discourses_with_embeddings.csv` & `.json`.
   5. Rendered statistical visualization dashboards analyzing L2 vector norm distributions, cosine similarities between components, and 2D PCA embedding projections.
+
+#### 3. Subordinating Conjunction Synthetic Data Generation & Discourse Expansion
+- **Notebook File:** `3.subordinating_conjunction_synthetic_dataset_generation.ipynb`
+- **Target LLM Engine:** Gemini 3.1 Flash-Lite (`gemini-3.1-flash-lite`) via `google-genai` SDK with persistent V2/V3 disk caching (`llm_synthetic_generation_cache.json`).
+- **Corpus & Sample Size:** $N = 4,500$ Synthetic Dual-Premise Conjunction Sentences (15 Essay Topics $\times$ 10 Iterations $\times$ 30 Samples/Request).
+- **Conjunction Classes:** Balanced across Conditional ($N = 1,500$), Causal ($N = 1,500$), and Concession ($N = 1,500$).
+- **Core Methodology:**
+  1. Configured an in-context learning engine using Gemini 3.1 Flash-Lite to expand the subordinating conjunction dataset across 15 PERSUADE 2.0 essay prompt topics.
+  2. Sampled real student discourse texts and valid segmented sentence structures from the same prompt class to condition the LLM to generate topic-relevant, syntactically complex sentences.
+  3. Structured each prompt request to generate 30 synthetic samples per batch (10 conditional, 10 causal, 10 concession), segmenting each sentence into `premise_1`, `premise_2`, `conjunction`, `conjunction_type`, and `constructed_sentence`.
+  4. Implemented programmatic dual-premise verification logic ensuring non-empty premises, distinct propositions, and valid conjunction class assignments. Unresolvable API failures raise explicit `RuntimeError` exceptions with 3-attempt exponential backoff retries.
+  5. Isolated a standalone verification run (Section 5.1: Topic 1, Iteration 1) printing the complete system prompt, raw response JSON string, and itemized parsed validation output prior to executing the 150-iteration generation loop (Section 5.2).
+  6. Conducted a manual verification audit displaying 30 representative synthetic samples across conditional, causal, and concession classes.
+  7. Exported final synthetic dataset payloads in CSV and JSON formats to primary Google Drive storage (`/content/drive/MyDrive/persuade_data/`) and local fallback paths (`data/`):
+     - Payload files: `synthetic_subordinating_conjunction_sentences.csv` & `.json`.
+  8. Generated statistical visualization dashboards displaying conjunction class breakdowns, essay topic sample distributions, segment character length metrics, and top connective term frequencies.
