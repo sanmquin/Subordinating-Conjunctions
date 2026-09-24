@@ -89,3 +89,16 @@ This repository investigates the latent geometric properties of subordinating co
   4. Trained and benchmarked all three models on 20-dimensional PCA feature representations, tracking training/validation/test accuracy, macro F1-score, cross-entropy loss, and wall-clock execution time.
   5. Rendered comparative performance dashboards and confusion matrix heatmaps (`plt.show()` & `plt.savefig()`).
   6. Dedicated a primary research section to **Interpretability Analysis**: extracted multinomial logistic regression decision weight matrices ($\mathbf{W} \in \mathbb{R}^{3 \times 20}$), identified top positive/negative driver dimensions for each conjunction class, and plotted class-conditional feature distributions.
+
+#### 6. Subordinating Conjunction Premise Latent Distance & Compositional Geometry Analysis
+- **Notebook File:** `6.subordinating_conjunction_premise_distance_analysis.ipynb`
+- **Target Embedding Architecture:** SentenceTransformers (`all-MiniLM-L6-v2`, 384-dimensional dense vectors reduced to $D = 20$ via PCA).
+- **Corpus & Sample Size:** $N = 4,500$ Synthetic Dual-Premise Conjunction Sentences across Conditional, Causal, and Concession classes.
+- **Core Methodology:**
+  1. Loaded quad-embedded synthetic dataset payloads (`synthetic_subordinating_conjunction_sentences_with_embeddings.json` / `.csv`) and projected 384-dimensional embeddings into $D = 20$ PCA principal dimensions.
+  2. Programmatically identified the relevant clean premise ($P_{\text{clean}}^{\text{rel}}$) corresponding to the conjunction-polluted premise fragment ($P_{\text{conj}}$) for every sample.
+  3. Evaluated three key research questions on 20-dimensional vector space geometry:
+     - **Result 1 (Clean Premise Separation)**: Measured Euclidean and Cosine distance between isolated clean premises ($P_1^{\text{clean}}$ vs $P_2^{\text{clean}}$) globally, per PCA dimension, and across functional conjunction classes (`conditional`, `causal`, `concession`).
+     - **Result 2 (Subordinating Connective Shift)**: Quantified the directional vector shift introduced by subordinating conjunction connectives ($P_{\text{conj}}$ vs $P_{\text{clean}}^{\\text{rel}}$) globally, per PCA dimension, and across functional connective classes.
+     - **Result 3 (Full Sentence Compositional Dynamics)**: Benchmarked the full complex sentence vector ($S^{\text{full}}$) against constituent premise combinations under vector addition ($P_1^{\text{clean}} + P_2^{\text{clean}}$) and elementwise/row-wise multiplication ($P_1^{\text{clean}} \odot P_2^{\text{clean}}$).
+  4. Rendered multi-panel visualization dashboards displaying global boxplots, dimension-wise heatmap matrices, line trajectories across PC1–PC20, and KDE distance density distributions (`plt.show()` & `plt.savefig()`).
