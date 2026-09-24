@@ -62,3 +62,30 @@ This repository investigates the latent geometric properties of subordinating co
   7. Exported final synthetic dataset payloads in CSV and JSON formats to primary Google Drive storage (`/content/drive/MyDrive/persuade_data/`) and local fallback paths (`data/`):
      - Payload files: `synthetic_subordinating_conjunction_sentences.csv` & `.json`.
   8. Generated statistical visualization dashboards displaying conjunction class breakdowns, essay topic sample distributions, segment character length metrics, and top connective term frequencies.
+
+#### 4. Synthetic Subordinating Conjunction Embeddings Generation & Conjunction Pollution Remediation
+- **Notebook File:** `4.subordinating_conjunction_synthetic_embeddings_dataset_generation.ipynb`
+- **Target Embedding Architecture:** SentenceTransformers (`all-MiniLM-L6-v2`, 384-dimensional dense vectors).
+- **Corpus & Sample Size:** $N = 4,500$ Synthetic Dual-Premise Conjunction Sentences across 15 PERSUADE 2.0 Essay Topics.
+- **Core Methodology:**
+  1. Identified and remediated a structural bug in the synthetic dataset where subordinating conjunction connectives were embedded inside individual premise fields.
+  2. Developed a proposition cleaning engine to strip conjunctions, trim punctuation, adjust sentence capitalization, and isolate clean proposition texts (`premise_1_clean`, `premise_2_clean`), the original premise with conjunction (`premise_with_conjunction`), and full reconstructed sentences (`constructed_sentence`).
+  3. Extracted 384-dimensional dense vector embeddings using `SentenceTransformer('all-MiniLM-L6-v2')` for all four textual targets across all $N = 4,500$ records ($18,000$ dense vectors total).
+  4. Exported cleaned unembedded payloads (`synthetic_subordinating_conjunction_sentences_cleaned.csv` & `.json`) and full quad-embedded payloads (`synthetic_subordinating_conjunction_sentences_with_embeddings.csv` & `.json`) to primary Google Drive storage (`/content/drive/MyDrive/persuade_data/`) and local fallback paths (`data/`).
+  5. Rendered statistical visualization dashboards analyzing inter-component cosine similarity matrices, L2 vector norm distributions, and 2D PCA projections across conditional, causal, and concession conjunction classes.
+
+#### 5. Subordinating Conjunction Subspace Classification & Interpretability Analysis
+- **Notebook File:** `5.subordinating_conjunction_classification_and_interpretability.ipynb`
+- **Target Embedding Architecture:** SentenceTransformers (`all-MiniLM-L6-v2`, 384-dimensional dense vectors reduced to $D = 20$ via PCA).
+- **Corpus & Sample Size:** $N = 4,500$ Synthetic Dual-Premise Conjunction Sentences across Conditional, Causal, and Concession classes.
+- **Classifiers Evaluated:**
+  1. **Highly Interpretable Model:** Multinomial Logistic Regression ($L_2$-regularized linear model).
+  2. **Baseline Neural Classifier:** Multi-Layer Perceptron (MLP, $128 \rightarrow 64$ hidden units).
+  3. **Decoder-Only Transformer Classifier:** PyTorch Causal Decoder Transformer (~22,000 parameters, $L=5$ feature tokens, $d_{model}=64$, 4 attention heads, 2 layers).
+- **Core Methodology:**
+  1. Loaded $N = 4,500$ synthetic full sentence 384-dimensional embeddings from primary Google Drive (`/content/drive/MyDrive/persuade_data/`) and local fallback storage (`data/`).
+  2. Applied Principal Component Analysis (PCA) on training set embeddings to reduce feature space dimensionality to $D = 20$ principal dimensions.
+  3. Formatted stratified $70\% / 15\% / 15\%$ train/validation/test splits across `conditional`, `causal`, and `concession` classes.
+  4. Trained and benchmarked all three models on 20-dimensional PCA feature representations, tracking training/validation/test accuracy, macro F1-score, cross-entropy loss, and wall-clock execution time.
+  5. Rendered comparative performance dashboards and confusion matrix heatmaps (`plt.show()` & `plt.savefig()`).
+  6. Dedicated a primary research section to **Interpretability Analysis**: extracted multinomial logistic regression decision weight matrices ($\mathbf{W} \in \mathbb{R}^{3 \times 20}$), identified top positive/negative driver dimensions for each conjunction class, and plotted class-conditional feature distributions.
