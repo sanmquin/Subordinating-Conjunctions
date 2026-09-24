@@ -89,3 +89,15 @@ This repository investigates the latent geometric properties of subordinating co
   4. Trained and benchmarked all three models on 20-dimensional PCA feature representations, tracking training/validation/test accuracy, macro F1-score, cross-entropy loss, and wall-clock execution time.
   5. Rendered comparative performance dashboards and confusion matrix heatmaps (`plt.show()` & `plt.savefig()`).
   6. Dedicated a primary research section to **Interpretability Analysis**: extracted multinomial logistic regression decision weight matrices ($\mathbf{W} \in \mathbb{R}^{3 \times 20}$), identified top positive/negative driver dimensions for each conjunction class, and plotted class-conditional feature distributions.
+
+#### 6. SHAP Feature Attribution & Attention Weight Interpretability in Subordinating Conjunction Subspace Classifiers
+- **Notebook File:** `6.subordinating_conjunction_shap_and_attention_interpretability.ipynb`
+- **Target Embedding Architecture:** SentenceTransformers (`all-MiniLM-L6-v2`, 384-dimensional dense vectors reduced to $D = 20$ via PCA).
+- **Corpus & Sample Size:** $N = 4,500$ Synthetic Dual-Premise Conjunction Sentences across 15 PERSUADE 2.0 Essay Topics.
+- **Interpretability Frameworks:** SHAP (SHapley Additive exPlanations) & PyTorch Multi-Head Self-Attention Weight Matrices.
+- **Core Methodology:**
+  1. Extended the classification benchmark of Notebook 5 by applying post-hoc SHAP feature attributions across $L_2$-regularized Multinomial Logistic Regression, Multi-Layer Perceptron (MLP), and PyTorch Decoder-Only Transformer classifiers.
+  2. Compared global feature attributions: non-linear neural classifiers (MLP and Transformer) concentrate importance on primary principal components (PC01–PC05), whereas linear models distribute decision weights broadly across secondary dimensions.
+  3. Evaluated feature attributions broken down by **Essay Type** across all 15 PERSUADE 2.0 essay topics (`prompt_name`), quantifying how dimensional allocation shifts in response to semantic domain changes (e.g., civic/policy arguments vs. scientific/exploratory topics).
+  4. Extracted sequence-level causal self-attention weights ($\mathbf{A} \in \mathbb{R}^{5 \times 5}$) from the Decoder-Only Transformer to visualize autoregressive information routing between feature sequence tokens across Conditional, Causal, and Concession classes.
+  5. Rendered and exported high-resolution interpretability visual artifacts (`subordinating_conjunction_shap_model_comparison.png`, `subordinating_conjunction_shap_essay_topic_shifts.png`, and `subordinating_conjunction_transformer_attention_heatmaps.png`).
