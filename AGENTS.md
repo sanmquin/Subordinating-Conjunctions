@@ -47,9 +47,9 @@ All Jupyter Notebooks created or modified in this repository must strictly adher
 * This guarantees that charts are rendered inline inside the notebook itself when viewed on GitHub, Jupyter, or Google Colab, making the notebook completely self-contained.
 * Visualization charts may be presented across multiple code cells directly following their respective analytical sections rather than being restricted to a single grouped multi-panel figure at the end of the notebook.
 
-### 9 Summary Contribution to README
+### 9 Summary Contribution to Development Log
 * Each notebook contributes to a larger research project.
-* After completing a notebook, include a complete summary in the main project `README.md` so that the results provide context for future experiments and can be easily consolidated into a formal research paper.
+* After completing a notebook, include a complete summary in the main project `DEVELOPMENT LOG.md` so that the results provide context for future experiments and can be easily consolidated into a formal research paper.
 
 ### 10 Notebook Execution Constraint
 * Do not run the notebook or you will encounter issues.
